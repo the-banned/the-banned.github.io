@@ -1,1 +1,3 @@
-images
+images:
+
+favicon.ico - Icon For Website
