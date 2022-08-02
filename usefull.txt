@@ -1,0 +1,9 @@
+<p style="color:red"> Makes the text colour red.</p>
+<p style="side:48"> Makes the text side 48px.</p>
+<p style="font-family:Comic Sans MS"> makes the font comic sans</p>
+
+
+
+To put two styles at once:
+
+<p style="color:Red;font-family:Comic Sans MS"> Makes the font red and in comic sans ms</p>
